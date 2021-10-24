@@ -5,7 +5,7 @@ const app = express()
 app.use("/token", require("./router-token"))
 
 // session run ...
-// app.use("/session", require("./router-session"))
+app.use("/session", require("./router-session"))
 
 
 module.exports = app
