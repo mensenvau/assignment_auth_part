@@ -17,5 +17,5 @@ app.use("/", require("./app"))
 
 // listin 
 app.listen(PORT, () => {
-    console.log(`Create server http://localhost:${PORT} .... click url`)
+    console.log(`Create server http://localhost:${PORT} .`)
 })
