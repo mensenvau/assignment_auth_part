@@ -1,0 +1,26 @@
+{
+    "name": "auth-test",
+    "version": "1.0.0",
+    "description": "auth-test",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mensenvau/auth-test.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mensenvau/auth-test/issues"
+    },
+    "homepage": "https://github.com/mensenvau/auth-test#readme",
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "mysql2": "^2.3.2",
+        "nodemon": "^2.0.14"
+    }
+}

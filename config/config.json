@@ -1,0 +1,11 @@
+{
+    "DB": {
+        "host": "localhost",
+        "username": "root",
+        "password": "@Aa123456",
+        "database": "authtest"
+    },
+    "APP": {
+        "PORT": "5050"
+    }
+}
