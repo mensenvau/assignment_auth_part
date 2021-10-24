@@ -1,0 +1,12 @@
+http://localhost:5050/token/sign-in 
+
+body 
+{
+    "usr":"admin",
+    "psw":"@12345"
+}
+
+http://localhost:5050/token/info
+
+headers or body or query 
+token 449174b1c71c7fad968a30693d32f754
